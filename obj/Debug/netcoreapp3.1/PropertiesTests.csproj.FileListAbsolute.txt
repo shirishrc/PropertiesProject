@@ -1,0 +1,14 @@
+C:\Users\P501161\source\Testing\PropertiesTests\bin\Debug\netcoreapp3.1\PropertiesTests.exe
+C:\Users\P501161\source\Testing\PropertiesTests\bin\Debug\netcoreapp3.1\PropertiesTests.deps.json
+C:\Users\P501161\source\Testing\PropertiesTests\bin\Debug\netcoreapp3.1\PropertiesTests.runtimeconfig.json
+C:\Users\P501161\source\Testing\PropertiesTests\bin\Debug\netcoreapp3.1\PropertiesTests.runtimeconfig.dev.json
+C:\Users\P501161\source\Testing\PropertiesTests\bin\Debug\netcoreapp3.1\PropertiesTests.dll
+C:\Users\P501161\source\Testing\PropertiesTests\bin\Debug\netcoreapp3.1\PropertiesTests.pdb
+C:\Users\P501161\source\Testing\PropertiesTests\obj\Debug\netcoreapp3.1\PropertiesTests.csproj.AssemblyReference.cache
+C:\Users\P501161\source\Testing\PropertiesTests\obj\Debug\netcoreapp3.1\PropertiesTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P501161\source\Testing\PropertiesTests\obj\Debug\netcoreapp3.1\PropertiesTests.AssemblyInfoInputs.cache
+C:\Users\P501161\source\Testing\PropertiesTests\obj\Debug\netcoreapp3.1\PropertiesTests.AssemblyInfo.cs
+C:\Users\P501161\source\Testing\PropertiesTests\obj\Debug\netcoreapp3.1\PropertiesTests.csproj.CoreCompileInputs.cache
+C:\Users\P501161\source\Testing\PropertiesTests\obj\Debug\netcoreapp3.1\PropertiesTests.dll
+C:\Users\P501161\source\Testing\PropertiesTests\obj\Debug\netcoreapp3.1\PropertiesTests.pdb
+C:\Users\P501161\source\Testing\PropertiesTests\obj\Debug\netcoreapp3.1\PropertiesTests.genruntimeconfig.cache
