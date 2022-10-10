@@ -8,7 +8,7 @@ namespace PropertiesTests
     {
         public string Name;
         public int Marks;
-        public string Result;
+        public string Result { get; set; }
 
         public Student(string sName, int sMarks)
         {
@@ -19,7 +19,7 @@ namespace PropertiesTests
         }
         public string fResult(int iMarks)
         {
-            if(iMarks < 36) 
+            if(iMarks < 35) 
             {
                 Result = "Fail";
             }

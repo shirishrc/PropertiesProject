@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "gcLwu8Zr92eDqiKRkE8OrNArLXhJk2hRc707qDJNPJSEXFamkKx4ifBzh7WlBv9G4LaL5/w7sf14ZESTNh45/g==",
+  "dgSpecHash": "Cf8lrIm2Pnt5ge4eOE2tHJzUl2Vmhp0oL6C2jkXbGvKBBda1CpQY60+KCt9kam7o3P2/qrot3Ggd4zDJxZgkNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\P501161\\source\\Testing\\PropertiesTests\\PropertiesTests.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/shirishchachadi/Projects/PropertiesProject/PropertiesTests.csproj",
+  "expectedPackageFiles": [
+    "/Users/shirishchachadi/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/shirishchachadi/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/shirishchachadi/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

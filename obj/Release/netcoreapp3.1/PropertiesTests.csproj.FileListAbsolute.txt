@@ -1,0 +1,14 @@
+/Users/shirishchachadi/Projects/PropertiesProject/bin/Release/netcoreapp3.1/PropertiesTests
+/Users/shirishchachadi/Projects/PropertiesProject/bin/Release/netcoreapp3.1/PropertiesTests.deps.json
+/Users/shirishchachadi/Projects/PropertiesProject/bin/Release/netcoreapp3.1/PropertiesTests.runtimeconfig.json
+/Users/shirishchachadi/Projects/PropertiesProject/bin/Release/netcoreapp3.1/PropertiesTests.runtimeconfig.dev.json
+/Users/shirishchachadi/Projects/PropertiesProject/bin/Release/netcoreapp3.1/PropertiesTests.dll
+/Users/shirishchachadi/Projects/PropertiesProject/bin/Release/netcoreapp3.1/PropertiesTests.pdb
+/Users/shirishchachadi/Projects/PropertiesProject/obj/Release/netcoreapp3.1/PropertiesTests.csproj.AssemblyReference.cache
+/Users/shirishchachadi/Projects/PropertiesProject/obj/Release/netcoreapp3.1/PropertiesTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shirishchachadi/Projects/PropertiesProject/obj/Release/netcoreapp3.1/PropertiesTests.AssemblyInfoInputs.cache
+/Users/shirishchachadi/Projects/PropertiesProject/obj/Release/netcoreapp3.1/PropertiesTests.AssemblyInfo.cs
+/Users/shirishchachadi/Projects/PropertiesProject/obj/Release/netcoreapp3.1/PropertiesTests.csproj.CoreCompileInputs.cache
+/Users/shirishchachadi/Projects/PropertiesProject/obj/Release/netcoreapp3.1/PropertiesTests.dll
+/Users/shirishchachadi/Projects/PropertiesProject/obj/Release/netcoreapp3.1/PropertiesTests.pdb
+/Users/shirishchachadi/Projects/PropertiesProject/obj/Release/netcoreapp3.1/PropertiesTests.genruntimeconfig.cache
